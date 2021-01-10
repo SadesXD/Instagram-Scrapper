@@ -1,5 +1,5 @@
 {
-  "name": "instagram-scapper",
+  "name": "instagram-scrapper",
   "version": "1.0.0",
   "description": "Simple npm package for help you to scrapper instagram user",
   "main": "index.js",
