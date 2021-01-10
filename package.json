@@ -17,6 +17,10 @@
     "name": "SadesXD"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadesXD/Instagram-Scrapper"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5"
