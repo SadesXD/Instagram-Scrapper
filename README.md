@@ -30,5 +30,5 @@ ig("fortnite").then(response => {
 })
 ```
 
-## Discord Server
-> [https://discord.gg/8rUvTYhFqK](https://discord.gg/8rUvTYhFqK)
+## 🌏 Opinion
+> if you have any suggetion, or you found a bug, feel free to send it in our discord server [https://discord.gg/8rUvTYhFqK](https://discord.gg/8rUvTYhFqK)
