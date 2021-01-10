@@ -1,0 +1,24 @@
+{
+  "name": "instagram-scapper",
+  "version": "1.0.0",
+  "description": "Simple npm package for help you to scrapper instagram user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "ig-scrapper",
+    "ig",
+    "instagram-scrapper",
+    "scrapper"
+  ],
+  "author": {
+    "name": "SadesXD"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
